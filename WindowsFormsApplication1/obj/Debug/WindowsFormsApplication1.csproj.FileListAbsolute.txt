@@ -1,0 +1,17 @@
+c:\users\santa\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\santa\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\santa\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\santa\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+c:\users\santa\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\santa\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\santa\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\santa\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\santa\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\santa\Documents\Visual Studio 2015\Projects\AutoInventory\WindowsFormsApplication1\bin\Debug\AutoInventory.exe.config
+C:\Users\santa\Documents\Visual Studio 2015\Projects\AutoInventory\WindowsFormsApplication1\bin\Debug\AutoInventory.exe
+C:\Users\santa\Documents\Visual Studio 2015\Projects\AutoInventory\WindowsFormsApplication1\bin\Debug\AutoInventory.pdb
+C:\Users\santa\Documents\Visual Studio 2015\Projects\AutoInventory\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\santa\Documents\Visual Studio 2015\Projects\AutoInventory\WindowsFormsApplication1\obj\Debug\AutoInventory.Properties.Resources.resources
+C:\Users\santa\Documents\Visual Studio 2015\Projects\AutoInventory\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\santa\Documents\Visual Studio 2015\Projects\AutoInventory\WindowsFormsApplication1\obj\Debug\AutoInventory.exe
+C:\Users\santa\Documents\Visual Studio 2015\Projects\AutoInventory\WindowsFormsApplication1\obj\Debug\AutoInventory.pdb
